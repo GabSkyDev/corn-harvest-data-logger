@@ -305,6 +305,17 @@ A temperatura do histórico é sempre exibida em °C, independentemente do idiom
 ---
 ## 15. Imagens
 
+### Visão Geral do Data Logger:
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fe9ad545-e6a6-465a-a70e-802365044c14" />
+
+### Componentes internos:
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/76275fd4-6f25-49bd-9f59-dc462699582e" />
+
+### Construção do projeto:
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/4cdba9cc-d2a2-4cf1-b9a2-4b7893dd1f23" />
+
+### Integrantes do Projeto com Data Logger:
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e0229331-1a83-4912-9906-89d5bd09f1b1" />
 
 ---
 Corn Harvest • FESA
